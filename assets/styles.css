@@ -1,0 +1,19 @@
+.mesas {
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+    align-content: space-between;
+}
+
+.mesa {
+    margin-right: 100px;
+    flex-basis: auto;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
